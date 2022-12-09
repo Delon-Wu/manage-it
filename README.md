@@ -25,11 +25,10 @@
 
 <img src="https://github.com/Delon-Wu/manage-it/blob/master/src/assets/img/wechat.png?raw=true" style="width: 200px">
 
-*原作者github账户名lin-xin*
 
 ## 前言
 
-该方案作为一套多功能的后台框架模板，适用于绝大部分的后台管理系统开发。基于 Vue3 + pinia + typescript，引用 Element Plus 组件库，方便开发。实现逻辑简单，适合外包项目，快速交付。
+该方案作为一套多功能的后台框架模板，适用于绝大部分的后台管理系统开发。基于 Vue3 + pinia + typescript，引用 Element Plus 组件库，方便开发。实现逻辑简单，适合外包项目，快速交付。值得一提的是该项目基于原作者lin-xin(github账户名)创建的。
 
 ## 功能
 
