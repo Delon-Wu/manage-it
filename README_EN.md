@@ -16,13 +16,12 @@
     <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="donate">
   </a>
 
-The web management system solution based on Vue3 and ElementPlus。[live demo](https://lin-xin.gitee.io/example/work/)
+The web management system solution based on Vue3 and ElementPlus。
 
-Please check the version of vue2 in [tag V4.2.0](https://github.com/lin-xin/vue-manage-system/tree/V4.2.0)
 
 ## Donation
 
-![WeChat](https://lin-xin.gitee.io/images/weixin.jpg)
+<img src="https://github.com/Delon-Wu/manage-it/raw/master/src/assets/img/wechat.png?raw=true" style="width: 200px">
 
 ## Preface
 
@@ -108,11 +107,11 @@ const options = ref({
 
 ### Default theme
 
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms1.png)
+![Image text](https://github.com/Delon-Wu/manage-it/raw/master/public/dashboard.png?raw=true)
 
 ### Login
 
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms3.png)
+![Image text](https://github.com/Delon-Wu/manage-it/raw/master/public/login.png?raw=true)
 
 ## License
 
