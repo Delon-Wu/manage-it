@@ -23,7 +23,7 @@
 
 请作者喝杯咖啡吧！(微信号：Delon2030)
 
-![微信扫一扫](![Image text](https://github.com/Delon-Wu/manage-it/blob/master/src/assets/img/wechat.png?raw=true)
+<img src="https://github.com/Delon-Wu/manage-it/blob/master/src/assets/img/wechat.png?raw=true" style="width: 120px">
 
 <span style="font-size: 6px; color: #ccc">原作者github账户名lin-xin</span>
 
