@@ -117,12 +117,12 @@ const options = ref({
 
 ### 登录
 
-![Image text](https://github.com/Delon-Wu/manage-it/blob/master/public/dashboard.png?raw=true)
+![Image text](https://github.com/Delon-Wu/manage-it/blob/master/public/login.png?raw=true)
 
 
 ### 首页
 
-![Image text](https://github.com/Delon-Wu/manage-it/blob/master/public/login.png?raw=true)
+![Image text](https://github.com/Delon-Wu/manage-it/blob/master/public/dashboard.png?raw=true)
 
 ## License
 
