@@ -23,7 +23,7 @@
 
 请作者喝杯咖啡吧！(微信号：Delon2030)
 
-![微信扫一扫](https://github.com/Delon-Wu/src/assets/img/wechat.png)
+![微信扫一扫](![Image text](https://github.com/Delon-Wu/manage-it/blob/master/src/assets/img/wechat.png?raw=true)
 
 <span style="font-size: 6px; color: #ccc">原作者github账户名lin-xin</span>
 
@@ -117,11 +117,12 @@ const options = ref({
 
 ### 登录
 
-![Image text](https://github.com/Delon-Wu/manage-system/raw/master/screenshots/wms3.png)
+![Image text](https://github.com/Delon-Wu/manage-it/blob/master/public/dashboard.png?raw=true)
+
 
 ### 首页
 
-![Image text](https://github.com/Delon-Wu/manage-system/raw/master/screenshots/wms1.png)
+![Image text](https://github.com/Delon-Wu/manage-it/blob/master/public/login.png?raw=true)
 
 ## License
 
