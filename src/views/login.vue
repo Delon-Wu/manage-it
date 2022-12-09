@@ -195,6 +195,7 @@ h6 span {
 
 .full-height {
 	min-height: 100vh;
+	overflow-y: hidden;
 }
 
 .text-center {
