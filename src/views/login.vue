@@ -88,7 +88,7 @@ const param = reactive<LoginInfo>({
 });
 
 const permiss = usePermissStore();
-const submitForm = (formEl: FormInstance | undefined) => {
+const submitForm = () => {
 	ElMessage.success('登录成功');
 	localStorage.setItem('ms_username', param.username);
 	const keys = permiss.defaultList[param.username == 'admin' ? 'admin' : 'user'];
