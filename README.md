@@ -23,9 +23,9 @@
 
 请作者喝杯咖啡吧！(微信号：Delon2030)
 
-<img src="https://github.com/Delon-Wu/manage-it/blob/master/src/assets/img/wechat.png?raw=true" style="width: 120px">
+<img src="https://github.com/Delon-Wu/manage-it/blob/master/src/assets/img/wechat.png?raw=true" style="width: 200px">
 
-<span style="font-size: 6px; color: #ccc">原作者github账户名lin-xin</span>
+*原作者github账户名lin-xin*
 
 ## 前言
 
