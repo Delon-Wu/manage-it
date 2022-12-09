@@ -1,6 +1,6 @@
 <template>
 	<div class="login-wrap section">
-		<img class="logo" src="src\assets\img\logo_transparent.png" alt="">
+		<img class="logo" src="src/assets/img/logo_transparent.png" alt="">
 		<div class="login-wrap_container">
 			<div class="row full-height justify-content-center">
 				<div class="text-center align-self-center">
@@ -88,7 +88,7 @@ const param = reactive<LoginInfo>({
 });
 
 const permiss = usePermissStore();
-const submitForm = (formEl: FormInstance | undefined) => {
+const submitForm = () => {
 	ElMessage.success('登录成功');
 	localStorage.setItem('ms_username', param.username);
 	const keys = permiss.defaultList[param.username == 'admin' ? 'admin' : 'user'];
