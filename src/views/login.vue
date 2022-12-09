@@ -1,6 +1,6 @@
 <template>
 	<div class="login-wrap section">
-		<img class="logo" src="src/assets/img/logo_transparent.png" alt="">
+		<img class="logo" src="/src/assets/img/logo_transparent.png" alt="">
 		<div class="login-wrap_container">
 			<div class="row full-height justify-content-center">
 				<div class="text-center align-self-center">
